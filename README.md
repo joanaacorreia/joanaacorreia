@@ -1,3 +1,7 @@
+<h5 align="left"></h5>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=51&section=header&reversal=false&text=hi,%20i'm%20joana!&fontSize=50&fontColor=FFFFFF&fontAlign=18&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
@@ -8,7 +12,7 @@
 
 ###
 
-<p align="left">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: C | C++ | Java | Python | JavaScript | Assembly | HTML/CSS</p>
+<p align="left">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: C | C++ | Java | Python | JavaScript | HTML/CSS</p>
 
 ###
 
