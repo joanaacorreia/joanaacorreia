@@ -8,31 +8,31 @@
 
 ```text
 
-    ⠀      ⠀                 ⠀⠀⠀⢀⡰⡀⠀⠀⣠⡀⠀⠀⠀⡰⡶⠀⠀⠀        [ LANGUAGES ]
-                              ⠀⢀⠎⠀⠈⠉⠉⠁⠱⣄⣀⣀⡅⣇⠀⠀⠀        . Core .......... C, C++, Java, Python, SQL
-                              ⠀⢸⠀⠤⠄⠀⣀⣀⣀⠀⡇⠀⠀⠀⠈⣗⡶⠆       . Web ........... JavaScript, HTML/CSS
-                              ⣠⣊⡱⠤⠤⢤⡤⢤⡾⠕⠒⠊⠉⠁⠀⠀⠀      
-                              ⠀⠀⠀⠀⠀⠓⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀          [ ENVIRONMENT ]
-                                                             . Tools ......... Linux CLI, Git/GitHub, Docker
+    ⠀      ⠀           ⢀⡰⡀⠀⠀⣠⡀⠀⠀⠀⡰⡶⠀⠀⠀        [ LANGUAGES ]
+                     ⢀⠎⠀⠈⠉⠉⠁⠱⣄⣀⣀⡅⣇⠀⠀⠀        . Core .......... C, C++, Java, Python, SQL
+                     ⢸⠀⠤⠄⠀⣀⣀⣀⠀⡇⠀⠀⠀⠈⣗⡶⠆       . Web ........... JavaScript, HTML/CSS
+                   ⣠⣊⡱⠤⠤⢤⡤⢤⡾⠕⠒⠊⠉⠁⠀⠀⠀      
+                    ⠀⠀⠀⠀⠀⠓⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀          [ ENVIRONMENT ]
+                                                  . Tools ......... Linux CLI, Git/GitHub, Docker
 
-                             ---------------------------------------------------------------------------------------
+                  ---------------------------------------------------------------------------------------
 
-                                 ⠀⠀⠀⠀⠀⠀⢠⠖⠛⠛⠟⢢⣤⡵⡀⠀⠀      [ SECURITY ]
-                                 ⠀⣠⠞⠉..⢦⣇⠀⠀⣇⣸⣅⣭⣞⣃⠀⠀     . Operations .... SOC Operations, Splunk
-                                 ⠸⠁⠀⠀⠢⢄⣝⡆⣷⣟⣵⠁⣀⠀⠈⠳⡄      . Analysis ...... Wireshark, Malware Analysis
-                                 ⢐⠒⠠⠀⠈⠒⢽⣿⠏⣼⣷⡥⠄⠂⠀⢤⡁      . Frameworks .... Mitre ATT&CK
-                                 ⠀⠉⠉⡻⢟⠽⡻⡻⠟⢟⢷⡯⠛⢝⠢⠴⠃      
-                                 ⠀⢠⠎⠀⢀⠎⠞⠁⡖⠈⢇⠱⡀⠀⠃⠀⠀      [ HARDWARE ]
-                                 ⠀⠸⡀⠀⠀⡀⠀⢠⣇⠀⠈⠀⠁⣱⡆⠀⠀       . Boards ........ Arduino/ESP8266, Raspberry Pi
-                                 ⠀⠀⠈⠒⠲⠷⠖⠃⠙⣄⣀⣠⡼⠉⠀⠀⠀       . Engineering ... Soldering, Circuit Prototyping
+                        ⠀⠀⠀⠀⠀⢠⠖⠛⠛⠟⢢⣤⡵⡀⠀⠀      [ SECURITY ]
+                       ⠀⣠⠞⠉..⢦⣇⠀⠀⣇⣸⣅⣭⣞⣃⠀⠀     . Operations .... SOC Operations, Splunk
+                      ⠸⠁⠀⠀⠢⢄⣝⡆⣷⣟⣵⠁⣀⠀⠈⠳⡄      . Analysis ...... Wireshark, Malware Analysis
+                      ⢐⠒⠠⠀⠈⠒⢽⣿⠏⣼⣷⡥⠄⠂⠀⢤⡁      . Frameworks .... Mitre ATT&CK
+                     ⠀⠉⠉⡻⢟⠽⡻⡻⠟⢟⢷⡯⠛⢝⠢⠴⠃      
+                      ⠀⢠⠎⠀⢀⠎⠞⠁⡖⠈⢇⠱⡀⠀⠃⠀⠀      [ HARDWARE ]
+                      ⠀⠸⡀⠀⠀⡀⠀⢠⣇⠀⠈⠀⠁⣱⡆⠀⠀       . Boards ........ Arduino/ESP8266, Raspberry Pi
+                       ⠀⠈⠒⠲⠷⠖⠃⠙⣄⣀⣠⡼⠉⠀⠀⠀       . Engineering ... Soldering, Circuit Prototyping
 
-                             ---------------------------------------------------------------------------------------
+                  ---------------------------------------------------------------------------------------
 
-                                    ⠀⠀⢀⣀⠀⠀⣀⣀⠀⠀            [ ROBOTICS ]
-                                    ⠀⢰⠁⠀⢱⡘⠀⠀⡇⠀            . Frameworks .... ROS2, Gazebo Simulation
-                                    ⠀⢾⠀⠀⠈⡇⠀⠀⡇⠀            . Architecture .. Embedded, Distributed Systems
-                                    ⠀⣸⠀⠀⠀⠁⠀⠠⡁⠀                       
-                                    ⡰⠁⠀⠀⠀⠀⠀⠀⠈⡄            [ CERTIFICATIONS ]
-                                    ⢇⠀⢠⠀⠀⠀⠀⡄⠀⡇            . LetsDefend .... SOC Analyst Certified
-                                    ⠈⢤⡀⠀⠰⠶⠀⢀⡴⠁           . LetsDefend .... Cybersecurity Programming
-                                    ⠀⠀⠈⠉⠁⠈⠉⠁⠀⠀
+                         ⠀⠀⢀⣀⠀⠀⣀⣀⠀⠀            [ ROBOTICS ]
+                         ⠀⢰⠁⠀⢱⡘⠀⠀⡇⠀            . Frameworks .... ROS2, Gazebo Simulation
+                         ⠀⢾⠀⠀⠈⡇⠀⠀⡇⠀            . Architecture .. Embedded, Distributed Systems
+                         ⠀⣸⠀⠀⠀⠁⠀⠠⡁⠀                       
+                         ⡰⠁⠀⠀⠀⠀⠀⠀⠈⡄            [ CERTIFICATIONS ]
+                         ⢇⠀⢠⠀⠀⠀⠀⡄⠀⡇            . LetsDefend .... SOC Analyst Certified
+                         ⠈⢤⡀⠀⠰⠶⠀⢀⡴⠁           . LetsDefend .... Cybersecurity Programming
+                         ⠀⠀⠈⠉⠁⠈⠉⠁⠀⠀
